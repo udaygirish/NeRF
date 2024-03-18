@@ -14,7 +14,22 @@
     - [ ] Parallel Training - Multi GPU ?
     - [X] Visualization (Rendering)
     - [X] Load Checkpoint and Render
+    - [ ] Optimize for CPU 
+    - [ ] Serve as a Web App
 
+## Sample Output 
+
+### Lego with Positional Encoding
+
+![LegoWithPositionalEncoding](./Lego_With_Positional_Encoding.gif.gif)
+
+### Lego without Positional Encoding
+
+![LegoWithPositionalEncoding](./Lego_Without_Positional_Encoding.gif)
+
+### Ship with Positional Encoding
+
+![ShipWithPositionalEncoding](./Ship_With_Positional_Encoding.gif)
 
 ## To run the Code
 
