@@ -1,0 +1,16 @@
+numpy
+torch
+torchvision
+matplotlib
+seaborn
+scikit-learn
+imageio
+opencv-python
+tqdm
+tensorboard
+tensorboardX
+wandb
+kornia
+lpips
+pytorch-msssim
+rembg
